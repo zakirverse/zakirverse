@@ -11,7 +11,7 @@ I build full-stack web applications, disaster-management tools, and AI-assisted 
 - 🎓 **Education**: 2nd Year B.Tech CSE (Data Science), KITS Singapur (Expected Grad: 2028)
 - 💻 **Core Focus**: Full-Stack Web Development (React, Node.js, MongoDB) & Data Science fundamentals
 - 🏆 **Hackathons**: Smart India Hackathon 2026 (Jalrakshak - Dam Break Inundation Modelling) | Google DeepMind Hyderabad Hackathon 2026
-- 👥 **Leadership**: Class Representative (CR) | Technical Event Lead (Code Zero) | Microsoft Learn Student Ambassador Activities
+- 👥 **Leadership**:  Technical Event Lead (Code Zero) | Microsoft Learn Student Ambassador Activities
 - 🤝 **Community**: Active participant in student technical communities, event organization, and open-source learning
 
 ---
